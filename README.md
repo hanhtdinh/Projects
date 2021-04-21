@@ -4,3 +4,4 @@ Follow me along my journey of learning C#!
 
 Projects:
 1) Starter Pokemon: Windows Forms Application for a user to choose a starter pokemon and learn about their Pokemon.
+2) Boba: An order management system for a fictional tea shop where users can place orders and employees can edit or delete orders as necessary.
