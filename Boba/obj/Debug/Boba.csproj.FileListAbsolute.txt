@@ -1,0 +1,17 @@
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Employee.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.EmployeeView.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Form1.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Order.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Properties.Resources.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Customer.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.csproj.GenerateResource.cache
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.csproj.CoreCompileInputs.cache
+C:\Users\17142\source\repos\Boba\Boba\bin\Debug\Boba.exe.config
+C:\Users\17142\source\repos\Boba\Boba\bin\Debug\Boba.exe
+C:\Users\17142\source\repos\Boba\Boba\bin\Debug\Boba.pdb
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.exe
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.pdb
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Payment.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.csprojAssemblyReference.cache
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.Menu.resources
+C:\Users\17142\source\repos\Boba\Boba\obj\Debug\Boba.CheckOut.resources
